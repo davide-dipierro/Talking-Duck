@@ -1,11 +1,16 @@
 # Talking-Duck
 A very simple talking duck
 
-# Eseguire lo script
+# Install the script
 
-Per eseguire lo script direttamente, utilizzare uno dei seguenti comandi:
+To install the script directly, use the following command:
 
 **Con `curl`:**
 
 ```sh
 curl -o duck https://raw.githubusercontent.com/davide-dipierro/Talking-Duck/main/duck && chmod +x duck && sudo mv duck /bin
+
+# Run the script
+
+```sh
+duck anything
