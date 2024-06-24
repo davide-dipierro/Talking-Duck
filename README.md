@@ -1,4 +1,4 @@
-# talking-duck
+# Talking-Duck
 A very simple talking duck
 
 # Eseguire lo script
