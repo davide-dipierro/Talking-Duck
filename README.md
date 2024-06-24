@@ -9,8 +9,10 @@ To install the script directly, use the following command:
 
 ```sh
 curl -o duck https://raw.githubusercontent.com/davide-dipierro/Talking-Duck/main/duck && chmod +x duck && sudo mv duck /bin
+```
 
 # Run the script
 
 ```sh
 duck anything
+```
