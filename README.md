@@ -16,6 +16,7 @@ curl -o duck https://raw.githubusercontent.com/davide-dipierro/Talking-Duck/main
 ```sh
 duck anything
 ```
+Will show the following output:
 ```sh
              ⢀⣤⡶⠿⠿⠷⣶⣄⠀⠀⠀⠀⠀ anything!
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⡿⠁⠀⠀⢀⣀⡀⠙⣷⡀⠀⠀⠀  /
