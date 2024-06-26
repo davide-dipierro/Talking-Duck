@@ -1,5 +1,5 @@
 # Talking-Duck
-A very simple talking duck
+A very simple talking duck for your shell
 
 # Install the script
 
