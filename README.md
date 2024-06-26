@@ -14,8 +14,10 @@ curl -o duck https://raw.githubusercontent.com/davide-dipierro/Talking-Duck/main
 # Run the script
 
 ```sh
+```
+```sh
 duck anything
-           ⢀⣤⡶⠿⠿⠷⣶⣄⠀⠀⠀⠀⠀ anything!
+             ⢀⣤⡶⠿⠿⠷⣶⣄⠀⠀⠀⠀⠀ anything!
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⡿⠁⠀⠀⢀⣀⡀⠙⣷⡀⠀⠀⠀  /
 ⠀⠀⠀⡀⠀⠀⠀⠀⠀⢠⣿⠁⠀⠀⠀⠘⠿⠃⠀⢸⣿⣿⣿⣿ / 
 ⠀⣠⡿⠛⢷⣦⡀⠀⠀⠈⣿⡄⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⣿⠟
